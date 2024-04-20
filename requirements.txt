@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+openai==1.23.2
+pandas==2.2.2
+python-dotenv==1.0.1
+requests==2.31.0
+yfinance==0.2.38
